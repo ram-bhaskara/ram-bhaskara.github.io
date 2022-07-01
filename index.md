@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<img align="right" width="360" height="240" src="/IMG_5130.jpg">
+<img align="right" width="280" height="290" src="/rcb.jpg">
 
 Hi! I am a PhD student in Aerospace engineering at the Texas A&M University. I work at the intersection of scientific high-performance computing, robotics, and computer graphics at [LASR](https://lasr.tamu.edu/) under the supervision of [Prof. Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html).
 
