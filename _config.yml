@@ -18,14 +18,15 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/bhaskara_cv.pdf", title: "CV"}
   - {title: "Publications", file:"/publications.md"}
-  - {title: "Blog", url:"https://medium.com/@brc0625"}
+  #- {title: "Blog", url:"https://medium.com/@brc0625"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:ramchanderbhaskara@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/ram-bhaskara"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/ram_bhaskara"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/ram-chander/"}
-  #- {title: Blog, icon: medium, url: "https://medium.com/@brc0625"}
+  - {title: Youtube, icon: youtube, url: "https://www.youtube.com/channel/UCZXCTwuddRBMjxCKUX21CsA"}
+  - {title: Blog, icon: medium, url: "https://medium.com/@brc0625"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
