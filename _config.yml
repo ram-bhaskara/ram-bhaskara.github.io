@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://drive.google.com/file/d/1PTLl9P35_f8xNU6XyzMiu4Il69nRVXxw/view?usp=sharing", title: "CV"}
-  - {title: "Publications", file:"/publications.md"}
+  - {title: "Publications", file: publications.md}
   #- {title: "Blog", url:"https://medium.com/@brc0625"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
@@ -32,6 +32,15 @@ comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
+
+scholar:
+    style: apa
+    bibliography: references.bib
+    replace_strings: true
+    query: "@*"
+    
 plugins:
  - jekyll-feed
  - jekyll-scholar
+
+
