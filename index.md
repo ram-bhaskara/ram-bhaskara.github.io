@@ -10,5 +10,7 @@ Hi! I am a PhD student in Aerospace engineering at the Texas A&M University. I w
 
 In June 2022, I have begun as a visiting student researcher at [Jet Propulsion Lab](https://www.jpl.nasa.gov/) with the [NeBula Autonomy](https://costar.jpl.nasa.gov/) group under the supervision of [Dr. Ali-Akbar Agha-Mohammadi](https://aliagha.site/).
 
-I got my Masters degree at TAMU with the LASR and Tensegrity Systems labs under the supervision of Profs. Manoranjan Majji and Robert Skelton. I got my undergraduate degree in Instrumentation and Control Engineering department at the National Institute of Technology, Tiruchirappalli, India.
+I got my Masters degree at TAMU with the LASR and Tensegrity Systems labs under the supervision of Profs. Manoranjan Majji and Robert Skelton. 
+
+I got my undergraduate degree in Instrumentation and Control Engineering department at the National Institute of Technology, Tiruchirappalli, India.
 
