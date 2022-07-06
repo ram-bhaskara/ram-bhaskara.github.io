@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://drive.google.com/file/d/1PTLl9P35_f8xNU6XyzMiu4Il69nRVXxw/view?usp=sharing", title: "CV"}
-  - {url: "https://drive.google.com/file/d/1pOOCF0Uj4VEscMGckxavBVhvgIfVvcoU/view?usp=sharing", title: "Publications"}
+  - {file: listOfPubs.pdf, title: "Publications"}
   #- {title: "Blog", url:"https://medium.com/@brc0625"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
