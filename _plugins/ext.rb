@@ -1,2 +1,2 @@
-require 'jekyll/scholar'
-require 'rubygems'
+require "jekyll/scholar"
+require "rubygems"
