@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "https://drive.google.com/file/d/1tnTHIinuelxI8ehIRy4Wo-YMnwkxQ9Ld/view?usp=sharing", title: "CV"}
+  - {url: "https://drive.google.com/file/d/1Wms1_v992nSeTmloitjdSG6RlwhzNUD5/view?usp=share_link", title: "CV"}
   - {url: "https://drive.google.com/file/d/19TadgJGYWyL7hX2Mb02QVrJXA_ipm0RN/view?usp=sharing", title: "Publications"}
   #- {title: "Blog", url:"https://medium.com/@brc0625"}
   
