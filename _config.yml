@@ -16,9 +16,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "https://drive.google.com/file/d/1Wms1_v992nSeTmloitjdSG6RlwhzNUD5/view?usp=share_link", title: "CV"}
-  - {url: "https://drive.google.com/file/d/19TadgJGYWyL7hX2Mb02QVrJXA_ipm0RN/view?usp=sharing", title: "Publications"}
-  #- {title: "Blog", url:"https://medium.com/@brc0625"}
+  #- {url: "https://drive.google.com/file/d/1Wms1_v992nSeTmloitjdSG6RlwhzNUD5/view?usp=share_link", title: "CV"}
+  - {title: "CV", url: /static/CV_Bhaskara_S23.pdf}
+  - {title: "Publications", url: /static/listOfPubs.pdf}
+  #- {url: "https://drive.google.com/file/d/19TadgJGYWyL7hX2Mb02QVrJXA_ipm0RN/view?usp=sharing", title: "Publications"}
+  
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:ramchanderbhaskara@gmail.com"}
