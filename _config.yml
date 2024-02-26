@@ -17,8 +17,8 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {url: "https://drive.google.com/file/d/1Wms1_v992nSeTmloitjdSG6RlwhzNUD5/view?usp=share_link", title: "CV"}
-  - {title: "CV", url: /static/CV_Bhaskara_S23.pdf}
-  - {title: "Publications", url: /static/listOfPubs.pdf}
+  - {title: "CV", url: /static/CV_Bhaskara_S24.pdf}
+  - {title: "Publications", url: https://scholar.google.com/citations?user=77pyaSYAAAAJ&hl=en}
   #- {url: "https://drive.google.com/file/d/19TadgJGYWyL7hX2Mb02QVrJXA_ipm0RN/view?usp=sharing", title: "Publications"}
   
   
