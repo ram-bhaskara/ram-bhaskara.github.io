@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .DS_Store
 .bundle
 .jekyll-cache
 .sass-cache
 Gemfile.lock
 _site
+=======
+.bundle
+.sass-cache
+Gemfile.lock
+example/_site
+_site
+.sass-cache
+>>>>>>> template/master
 *.gem
