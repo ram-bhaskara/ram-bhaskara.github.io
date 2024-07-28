@@ -1,0 +1,73 @@
+---
+---
+
+@import "minima";
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #383838;
+}
+
+.publication-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .publication-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+  }
+  
+  .publication-image {
+    margin-right: 20px;
+  }
+  
+  .publication-image img {
+    width: 150px; /* Adjust the width as needed */
+    height: auto;
+    padding: 0; /* Remove padding */
+  }
+  
+  .publication-details {
+    flex: 1;
+  }
+  
+  .publication-title {
+    margin: 0;
+    font-size: 1.0em; /* Larger font size for title */
+  }
+  
+  .publication-authors {
+    margin-top: 5px;
+    font-size: 0.9em; /* Slightly reduced font size for authors */
+    color: #555;
+  }
+  
+  .publication-journal {
+    margin-top: 5px;
+    font-size: 0.9em; /* Slightly reduced font size for journal info */
+    font-style: italic; /* Italicize journal name */
+    color: #333; /* Adjust color as needed */
+  }
+  
+  .publication-links {
+    margin-top: 5px;
+  }
+  
+  .publication-links a {
+    color: #007acc;
+    text-decoration: none;
+  }
+  
+  .publication-links a:hover {
+    text-decoration: underline;
+  }
+  
+  .publication-award {
+    margin-left: 10px;
+    color: #ee9348; /* Highlight color */
+    font-weight: bold;
+    font-size: 0.9em; 
+  }

@@ -1,48 +1,50 @@
-title: "Ramchander Bhaskara"
-author: "Ram Bhaskara"
-description: "Connect: bhaskara@tamu.edu"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+title: Ramchander Bhaskara
+description: ""
+author: Rcb
 
-# Layout
-show_social: true
-show_excerpts: false        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+theme: minima
 
-# Menu
+base_url: /ram-bhaskara.github.io
+repository: ram-bhaskara/ram-bhaskara.github.io
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  #- {url: "https://drive.google.com/file/d/1Wms1_v992nSeTmloitjdSG6RlwhzNUD5/view?usp=share_link", title: "CV"}
-  - {title: "CV", url: /static/CV_Bhaskara_S24.pdf}
-  - {title: "Publications", url: "https://scholar.google.com/citations?user=77pyaSYAAAAJ&hl=en"}
-  #- {url: "https://drive.google.com/file/d/19TadgJGYWyL7hX2Mb02QVrJXA_ipm0RN/view?usp=sharing", title: "Publications"}
-  
-  
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:ramchanderbhaskara@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/ram-bhaskara"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/ram_bhaskara"}
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/ram-chander/"}
-  - {title: Youtube, icon: youtube, url: "https://www.youtube.com/channel/UCZXCTwuddRBMjxCKUX21CsA"}
-  - {title: Blog, icon: medium, url: "https://medium.com/@brc0625"}
+# Minima social links
+github_username: ram-bhaskara
+linkedin_username: ram-chander
+email: ramchanderbhaskara@gmail.com
+google_scholar: 77pyaSYAAAAJ
+#rss: rss
 
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+# Minima: show excerpts in the frontpage
+show_excerpts: true
 
+minima:
+  date_format: "%Y-%m-%d"
+
+# Minima: custom header links
+header_pages:
+  - _pages/frontpage.md
+  - _pages/CV.md
+  - _pages/publicationList.md
+  #- _pages/about.md
+  #- _pages/archive.md
+
+include:
+    - _pages
+
+exclude: 
+    - .gitignore
+    - docker-compose.yml
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+
+
+gems:
+  - jekyll-scholar
 
 scholar:
-    style: apa
-    bibliography: references.bib
-    replace_strings: true
-    query: "@*"
-    
-plugins:
- - jekyll-feed
- - jekyll-scholar
-
-
+  style: apa
+  locale: en
+  source: "./_bibliography/references.bib"
+  bibliography_template: "{{reference}}"

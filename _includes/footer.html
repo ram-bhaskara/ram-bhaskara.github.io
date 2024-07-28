@@ -1,37 +1,37 @@
-<footer class="site-footer">
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
-  <div class="wrapper">
-
+  <!--div class="wrapper">
     <div class="footer-col-wrapper">
-      <div class="footer-col">
+      <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>
-            {% if site.author %}
+          <li class="p-name">
+            {%- if site.author -%}
               {{ site.author | escape }}
-            {% else %}
+            {%- else -%}
               {{ site.title | escape }}
-            {% endif %}
-          </li>
-          {% if site.institute_name %}
-            {% if site.institute_url %}
-            <a href="{{ site.institute_url | escape }}">
-            {% endif %}
-            <li>{{ site.institute_name }}</li>
-            {% if site.institute_url %}
-            </a>
-            {% endif %}
-          {% endif %}
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+            </li>
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
         </ul>
+      </div-->
+
+
+      <div class="footer-col footer-col-2">
+        <p>Built using <a href="https://github.com/jsanz/gh-pages-minima-starter" target="_blank" rel="noopener noreferrer">Minima</a></p>
       </div>
 
-      <div class="footer-col">
-      </div>
+      <!-- Ram: Replace the above line for default footer that includes social profiles and Ram's personal website as description-->
+
+      <!--div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div-->
+
+      <!--div class="footer-col footer-col-3">
+        <p>{{- site.description | escape -}}</p>
+      </div-->
     </div>
   </div>
-  
-  {% if site.footer %}
-  <div class="footer-text">{{ site.footer }}</div>
-  {% endif %}
-
 </footer>
