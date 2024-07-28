@@ -24,14 +24,14 @@
   code_url: "https://github.com/nasa-jpl/guiss"
 
 
-- title: "Development and Validation of Velocimeter Lidar Simulator"
-  authors: "Ramchander Bhaskara, David van Wijk, Roshan T Eapen, Davis Adams, Caleb Peck, and Manoranjan Majji"
+- title: "Development and Validation of Velocimeter Lidar Simulator [poster]"
+  authors: "Ramchander Rao Bhaskara, David van Wijk, Roshan Thomas Eapen, Davis Adams, Caleb Peck, and Manoranjan Majji"
   journal: "AAS Guidance, Navigation, and Control Conference"
   year: 2024
   image: "./assets/imgs/pubs/vehicleTrajectory_AstWall.png"
   #paper_url: ""
   code_url: "https://github.com/ram-bhaskara/Lidar-velocimeter/tree/main"
-  award: poster
+  #award: poster
 
 
 - title: "Differentiable Rendering for Pose Estimation in Proximity Operations"
@@ -79,7 +79,7 @@
   #code_url: "https://github.com/nasa-jpl/guiss"
 
 - title: "Physics-Based Modeling of Selective Catalytic Reduction System and Corresponding Reduced Order Dynamics"
-  authors: " Ram Chander Bhaskara, Sabareish P, Srinivas M and Umapathy M"
+  authors: " Ram Chander Rao Bhaskara, Sabareish P, Srinivas M and Umapathy M"
   journal: "International Journal of Advancements in Technology"
   year: 2018
   image: "./assets/imgs/pubs/ug_paper.png"
