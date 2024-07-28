@@ -1,8 +1,9 @@
 # Notes for future me
 1. This is built on minima theme. Instructions for modifying the layout and contents require following the description of [`minima` theme][minima].
 2. _layouts/newHome.html combines frontpage.md (About me) and publications. 
-3. Publications are also separately rendered through a publicationList.md (to have it in header). The layout for this is publications.html. This is redundant and needs to be modified. Idea: In future, replace publications in newHome.html with posts. [`minima starter`][https://github.com/jsanz/gh-pages-minima-starter] has posts in the place of publications. 
+3. Publications are also separately rendered through a publicationList.md (to have it in header). The layout for this is publications.html. This is redundant and needs to be modified. Idea: In future, replace publications in newHome.html with posts. [`minima starter`](https://github.com/jsanz/gh-pages-minima-starter) has posts in the place of publications. 
 4. Many layouts are already present in the [`minima` theme][minima]. I had to manually create new layouts to have it my way (inefficient). 
+5. Immediate edit required: publications in navigation header and frontpage should be the same. One page website (plus CV). 
 
 
 
