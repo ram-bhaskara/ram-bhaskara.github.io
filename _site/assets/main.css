@@ -198,6 +198,8 @@ table td { border: 1px solid #e8e8e8; }
 
 body { font-family: 'Montserrat', sans-serif; color: #383838; }
 
+html { scroll-behavior: smooth; }
+
 .publication-list { list-style-type: none; padding: 0; }
 
 .publication-item { display: flex; align-items: flex-start; margin-bottom: 20px; }
