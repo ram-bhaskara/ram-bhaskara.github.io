@@ -8,7 +8,7 @@
 
 - title: "On applications of high-fidelity visual data synthesis in space mission designs"
   authors: "Ramchander Rao Bhaskara, Roshan T Eapen, Manoranjan Majji"
-  journal: "In preparation"
+  journal: "Under review"
   year: 2024
   image: "./assets/imgs/pubs/fDist00.png"
   #paper_url: "./assets/imgs/pubs/fDist00.png"
@@ -29,7 +29,7 @@
   journal: "AAS Guidance, Navigation, and Control Conference"
   year: 2024
   image: "./assets/imgs/pubs/vehicleTrajectory_AstWall.png"
-  #paper_url: ""
+  paper_url: "./assets/docs/LidarValidation_GNC2024.pdf"
   code_url: "https://github.com/ram-bhaskara/Lidar-velocimeter/tree/main"
   #award: poster
 
