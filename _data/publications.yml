@@ -17,10 +17,10 @@
 
 - title: "Development and Validation of Velocimeter Lidar Simulator"
   authors: "Ramchander Rao Bhaskara, Roshan Thomas Eapen, Davis Adams, and Manoranjan Majji"
-  journal: "To be presented at SciTech 2025"
+  journal: "AIAA SciTech Forum (accepted)"
   year: 2025
   image: "./assets/imgs/pubs/vehicleTrajectory_AstWall.png"
-  paper_url: "./assets/docs/LidarValidation_GNC2024.pdf"
+  paper_url: "./assets/imgs/pubs/LidarValidation_GNC2024.pdf"
   code_url: "https://github.com/ram-bhaskara/Lidar-velocimeter/tree/main"
   #award: poster
 
