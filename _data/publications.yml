@@ -13,6 +13,16 @@
   image: "./assets/imgs/pubs/fDist00.png"
   #paper_url: "./assets/imgs/pubs/fDist00.png"
   #code_url: "https://link.to/code2"
+  
+
+- title: "Development and Validation of Velocimeter Lidar Simulator"
+  authors: "Ramchander Rao Bhaskara, Roshan Thomas Eapen, Davis Adams, and Manoranjan Majji"
+  journal: "To be presented at SciTech 2025"
+  year: 2025
+  image: "./assets/imgs/pubs/vehicleTrajectory_AstWall.png"
+  paper_url: "./assets/docs/LidarValidation_GNC2024.pdf"
+  code_url: "https://github.com/ram-bhaskara/Lidar-velocimeter/tree/main"
+  #award: poster
 
 
 - title: "Icy Moon Surface Simulation and Stereo Depth Estimation for Sampling Autonomy"
@@ -23,15 +33,6 @@
   paper_url: "https://arxiv.org/abs/2401.12414"
   code_url: "https://github.com/nasa-jpl/guiss"
 
-
-- title: "Development and Validation of Velocimeter Lidar Simulator [poster]"
-  authors: "Ramchander Rao Bhaskara, David van Wijk, Roshan Thomas Eapen, Davis Adams, Caleb Peck, and Manoranjan Majji"
-  journal: "AAS Guidance, Navigation, and Control Conference"
-  year: 2024
-  image: "./assets/imgs/pubs/vehicleTrajectory_AstWall.png"
-  paper_url: "./assets/docs/LidarValidation_GNC2024.pdf"
-  code_url: "https://github.com/ram-bhaskara/Lidar-velocimeter/tree/main"
-  #award: poster
 
 
 - title: "Differentiable Rendering for Pose Estimation in Proximity Operations"
