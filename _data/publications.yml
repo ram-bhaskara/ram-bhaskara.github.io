@@ -1,11 +1,3 @@
-- title: "Quantized State Estimation for Linear Dynamical Systems"
-  authors: "Ramchander Rao Bhaskara, Manoranjan Majji, Felipe Guzman"
-  journal: "Under review"
-  year: 2024
-  image: "./assets/imgs/pubs/J1_numSim_LS1216.png"
-  #paper_url: ""
-  #code_url: "https://link.to/code1"
-
 - title: "On applications of high-fidelity visual data synthesis in space mission designs"
   authors: "Ramchander Rao Bhaskara, Roshan T Eapen, Manoranjan Majji"
   journal: "Under review"
@@ -14,6 +6,15 @@
   #paper_url: "./assets/imgs/pubs/fDist00.png"
   #code_url: "https://link.to/code2"
   
+
+- title: "Quantized State Estimation for Linear Dynamical Systems"
+  authors: "Ramchander Rao Bhaskara, Manoranjan Majji, Felipe Guzman"
+  journal: "Accepted, Sensors Journal"
+  year: 2024
+  image: "./assets/imgs/pubs/J1_numSim_LS1216.png"
+  #paper_url: ""
+  #code_url: "https://link.to/code1"
+
 
 - title: "Development and Validation of Velocimeter Lidar Simulator"
   authors: "Ramchander Rao Bhaskara, Roshan Eapen, Davis Adams, Caleb Peck, and Manoranjan Majji"
