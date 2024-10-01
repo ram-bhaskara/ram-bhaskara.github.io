@@ -9,10 +9,10 @@
 
 - title: "Quantized State Estimation for Linear Dynamical Systems"
   authors: "Ramchander Rao Bhaskara, Manoranjan Majji, Felipe Guzman"
-  journal: "Accepted, Sensors Journal"
+  journal: "Sensors"
   year: 2024
   image: "./assets/imgs/pubs/J1_numSim_LS1216.png"
-  #paper_url: ""
+  paper_url: "https://www.mdpi.com/1424-8220/24/19/6381"
   #code_url: "https://link.to/code1"
 
 
