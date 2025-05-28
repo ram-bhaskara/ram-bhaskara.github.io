@@ -37,16 +37,14 @@ list_title:
 
 I'm a PhD candidate in Aerospace Engineering at Texas A&M University - graduating in August 2025. My research focuses on on-board signal processing and state estimation using FPGA embedded systems. I also work on computer graphics and computer vision for space robotics.
 
-Previously, I was a visiting research intern at NASA JPL, where I worked on planetary surface and sensor modeling, as well as perception for offroad autonomous vehicles.
-
 Here is a brief outline of my dissertation research: [Technical Note](./assets/imgs/pubs/Ram_Dissertation_Poster.pdf "Poster").
 
-**I am seeking full-time opportunities in algorithms, digital signal processing, and perception starting in July 2025**.
+Previously, I was a visiting research intern at NASA JPL, where I worked on planetary surface and sensor modeling, as well as perception for offroad autonomous vehicles.
 
-**I am seeking full-time** (or) **postdoctoral opportunities** in: 
-- Sensor modeling and development (scientific and robotic)
-- Sensor and environment simulations (autonomous vehicles or planetary science)
-- Robotic navigation
+**I am seeking full-time** (or) **postdoctoral opportunities** starting in August 2025: 
+- Sensor algorithms and signal processing
+- State estimation and robotic navigation
+- Sensor and environment modeling (autonomous vehicles or planetary science)
 &nbsp;
 
 [comment]: This is a template and some instructions for running Github Pages with the [`minima` theme][minima].
