@@ -39,7 +39,7 @@ I'm a PhD candidate in Aerospace Engineering at Texas A&M University - graduatin
 
 Previously, I was a visiting research intern at NASA JPL, where I worked on planetary surface and sensor modeling, as well as perception for offroad autonomous vehicles.
 
-I recently defended my PhD and here is a brief `outline of my dissertation research: [Technical Note](./assets/imgs/pubs/Ram_Dissertation_Poster.pdf "Poster")`.
+Here is a brief outline of my dissertation research: [Technical Note](./assets/imgs/pubs/Ram_Dissertation_Poster.pdf "Poster").
 
 **I am seeking full-time opportunities in algorithms, digital signal processing, and perception starting in July 2025**.
 

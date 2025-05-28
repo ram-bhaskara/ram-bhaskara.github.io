@@ -9,7 +9,7 @@
 - title: "On applications of high-fidelity visual data synthesis in space mission designs"
   authors: "Ramchander Rao Bhaskara, Roshan T Eapen, Manoranjan Majji"
   journal: "Under review"
-  year: 2024
+  year: 2025
   image: "./assets/imgs/pubs/fDist00.png"
   #paper_url: "./assets/imgs/pubs/fDist00.png"
   #code_url: "https://link.to/code2"
@@ -23,6 +23,15 @@
   paper_url: "./assets/imgs/pubs/LidarValidation_GNC2024.pdf"
   code_url: "https://github.com/ram-bhaskara/Lidar-velocimeter/tree/main"
   #award: poster
+  
+  
+  - title: "Quantized State Estimation for Linear Dynamical Systems"
+  authors: "Ramchander Rao Bhaskara, Manoranjan Majji, Felipe Guzman"
+  journal: "Sensors"
+  year: 2024
+  image: "./assets/imgs/pubs/J1_numSim_LS1216.png"
+  paper_url: "https://www.mdpi.com/1424-8220/24/19/6381"
+  #code_url: "https://link.to/code1"
 
 
 - title: "Icy Moon Surface Simulation and Stereo Depth Estimation for Sampling Autonomy"
