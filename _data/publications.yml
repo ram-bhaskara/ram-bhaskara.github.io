@@ -6,14 +6,6 @@
   paper_url: "./assets/imgs/pubs/Ram_Dissertation_Poster.pdf"
 
 
-- title: "Quantized State Estimation for Linear Dynamical Systems"
-  authors: "Ramchander Rao Bhaskara, Manoranjan Majji, Felipe Guzman"
-  journal: "Under review"
-  year: 2024
-  image: "./assets/imgs/pubs/J1_numSim_LS1216.png"
-  #paper_url: ""
-  #code_url: "https://link.to/code1"
-
 - title: "On applications of high-fidelity visual data synthesis in space mission designs"
   authors: "Ramchander Rao Bhaskara, Roshan T Eapen, Manoranjan Majji"
   journal: "Under review"

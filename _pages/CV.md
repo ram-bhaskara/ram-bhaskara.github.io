@@ -10,7 +10,7 @@ title: CV
   }
 </style>
 
-<iframe src="{{ "./assets/CV/CV_Bhaskara_2024.pdf" | relative_url }}" width="115%" height="1000px">
+<iframe src="{{ "./assets/CV/CV_Bhaskara_M25.pdf" | relative_url }}" width="115%" height="1000px">
     This browser does not support PDFs. Please download the PDF to view it: 
-    <a href="{{ "./assets/CV/CV_Bhaskara_S24.pdf" | relative_url }}">Download PDF</a>.
+    <a href="{{ "./assets/CV/CV_Bhaskara_M25.pdf" | relative_url }}">Download PDF</a>.
 </iframe>
