@@ -5,7 +5,6 @@
   image: "./assets/imgs/pubs/Dissertation_cover_Img.png"
   paper_url: "./assets/imgs/pubs/Ram_Dissertation_Poster.pdf"
 
-
 - title: "On applications of high-fidelity visual data synthesis in space mission designs"
   authors: "Ramchander Rao Bhaskara, Roshan T Eapen, Manoranjan Majji"
   journal: "Under review"
@@ -14,7 +13,6 @@
   #paper_url: "./assets/imgs/pubs/fDist00.png"
   #code_url: "https://link.to/code2"
   
-
 - title: "Development and Validation of Velocimeter Lidar Simulator"
   authors: "Ramchander Rao Bhaskara, Roshan Eapen, Davis Adams, Caleb Peck, and Manoranjan Majji"
   journal: "AIAA SciTech Forum"
@@ -24,15 +22,13 @@
   code_url: "https://github.com/ram-bhaskara/Lidar-velocimeter/tree/main"
   #award: poster
   
-  
-  - title: "Quantized State Estimation for Linear Dynamical Systems"
+- title: "Quantized State Estimation for Linear Dynamical Systems"
   authors: "Ramchander Rao Bhaskara, Manoranjan Majji, Felipe Guzman"
   journal: "Sensors"
   year: 2024
   image: "./assets/imgs/pubs/J1_numSim_LS1216.png"
   paper_url: "https://www.mdpi.com/1424-8220/24/19/6381"
   #code_url: "https://link.to/code1"
-
 
 - title: "Icy Moon Surface Simulation and Stereo Depth Estimation for Sampling Autonomy"
   authors: "Ramchander Rao Bhaskara, Georgios Georgakis, Jeremy Nash, Marissa Cameron, Joseph Bowkett, Adnan Ansar, Manoranjan Majji, Paul Backes"
@@ -41,8 +37,6 @@
   image: "./assets/imgs/pubs/qualitative_examples_figure2.png"
   paper_url: "https://arxiv.org/abs/2401.12414"
   code_url: "https://github.com/nasa-jpl/guiss"
-
-
 
 - title: "Differentiable Rendering for Pose Estimation in Proximity Operations"
   authors: "Ramchander Rao Bhaskara, Roshan T Eapen, Manoranjan Majji"
@@ -53,7 +47,6 @@
   #code_url: "https://github.com/nasa-jpl/guiss"
   award: "Finalist, Best Student Paper Award"
 
-
 - title: "An FPGA framework for Interferometric Vision-Based Navigation (iVisNav)"
   authors: "Ramchander Rao Bhaskara, Kookjin Sung, Manoranjan Majji"
   journal: "Digital Avionics Systems Conference"
@@ -63,7 +56,6 @@
   #code_url: "https://github.com/nasa-jpl/guiss"
   award: "Best Student Paper Awards (2nd Place)"
 
-
 - title: "FPGA Hardware Acceleration for Feature-Based Relative Navigation Applications"
   authors: "Ramchander Rao Bhaskara, Manoranjan Majji"
   journal: "Astrodynamics Specialist Conference"
@@ -71,7 +63,6 @@
   image: "./assets/imgs/pubs/3DmatchedFeatures_uav.png"
   paper_url: "https://arxiv.org/abs/2210.09481"
 
-  
 - title: "Vision and inertial sensor fusion for terrain relative navigation"
   authors: "Andrew Verras, Roshan Thomas Eapen, Andrew B. Simon, Manoranjan Majji, Ramchander Rao Bhaskara, Carolina I. Restrepo, Ronney Lovelace"
   journal: "AIAA SciTech Forum"
