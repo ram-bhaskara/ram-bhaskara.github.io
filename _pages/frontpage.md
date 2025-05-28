@@ -35,14 +35,14 @@ list_title:
 &nbsp;
 
 
-I'm a PhD candidate in Aerospace Engineering at Texas A&M University. My research focuses on on-board sensor data processing and state estimation using FPGA embedded systems. I also work on computer graphics and computer vision for space robotics.
-
+I'm a PhD candidate in Aerospace Engineering at Texas A&M University - graduating in August 2025. My research focuses on on-board signal processing and state estimation using FPGA embedded systems. I also work on computer graphics and computer vision for space robotics.
 
 
 Previously, I was a visiting research intern at NASA JPL, where I worked on space-scene and sensor modeling, as well as perception for offroad autonomy.
 
+I recently defended my PhD and here is a brief `outline of my dissertation research: [Technical Note](./assets/imgs/pubs/Ram_Dissertation_Poster.pdf "Poster")`.
 
-**I am seeking full-time opportunities in sensor algorithms and autonomy starting in 2025**.
+**I am seeking full-time opportunities in algorithms, digital signal processing, and perception starting in July 2025**.
 
 &nbsp;
 
