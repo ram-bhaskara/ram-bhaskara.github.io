@@ -39,7 +39,7 @@ I'm a PhD candidate in Aerospace Engineering at Texas A&M University - graduatin
 
 Here is a brief outline of my dissertation research: [Technical Note](./assets/imgs/pubs/Ram_Dissertation_Poster.pdf "Poster").
 
-Previously, I was a visiting research intern at NASA JPL, where I worked on planetary surface and sensor modeling, as well as perception for offroad autonomous vehicles.
+During 2023, I was a research intern at NASA JPL, where I worked on Europa Lander perception studies through sensor and environmental studies. In 2022, I worked for the JPL's [RACER](https://www-robotics.jpl.nasa.gov/what-we-do/research-tasks/racer/) program in geometric perception for offroad autonomous vehicles.
 
 **I am seeking full-time** (or) **postdoctoral opportunities** starting in August 2025: 
 - Sensor algorithms and signal processing
