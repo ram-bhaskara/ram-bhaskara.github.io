@@ -1,3 +1,11 @@
+- title: "Searching for Ariel's Aliens with the CRISPI (Compositional Regolith and Icy Surface analysis via Particle Impact) Mass Spectrometer SmallSat Flyby Mission"
+  authors: "Zach Ulibarri, Saima Jamal, Ramchander Rao Bhaskara et al."
+  journal: "American Geophysical Union"
+  year: 2025
+  image: "./assets/imgs/pubs/CRISPI.png"
+  #paper_url: ""
+
+
 - title: "Real-Time Signal Processing and State Estimation for Spaceflight Applications"
   authors: "Ramchander Rao Bhaskara"
   journal: "Dissertation Research"
