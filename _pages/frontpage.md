@@ -35,25 +35,12 @@ list_title:
 &nbsp;
 
 
-I'm a research engineer at Texas A&M University. I graduated with a PhD in Aerospace Engineering in August 2025. My research focuses on on-board signal processing and state estimation using FPGA embedded systems. I also work on computer graphics and computer vision for space robotics.
+Hi! I am Posdoctoral Researcher at [RISc Lab](https://rcweb.dartmouth.edu/RISCLab/) working with Profs. [Adithya Pediredla](https://faculty-directory.dartmouth.edu/adithya-k-pediredla) and [Wojciech Jarosz](https://cs.dartmouth.edu/~wjarosz/). My research spans computational sensing, rendering, and navigation.
 
-Here is a brief outline of my dissertation research: [Technical Note](./assets/imgs/pubs/Ram_Dissertation_Poster.pdf "Poster").
 
-During 2023, I was a research intern at NASA JPL, where I worked on Europa Lander perception studies through sensor and environmental studies. 
+I earned my PhD in Aerospace Engineering from Texas A&M University under Prof. [Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html). My dissertation focused on digital signal processing and state estimation using FPGA-based embedded systems. Here is a brief outline of my doctoral work: [Technical Note](./assets/imgs/pubs/Ram_Dissertation_Poster.pdf "Poster").
 
-In 2022, I worked for the JPL's [RACER](https://www-robotics.jpl.nasa.gov/what-we-do/research-tasks/racer/) program in geometric perception for offroad autonomous vehicles.
+During graduate school, I also worked extensively on sensor simulation and computational vision for space robotics. As a visiting researcher at NASA JPL, I worked with Drs. [Georgios Georgakis](https://www-robotics.jpl.nasa.gov/who-we-are/people/georgios-georgakis/), and Anup Katake on the [Europa Lander](https://www.jpl.nasa.gov/missions/europa-lander/) concept mission, focusing on perception for vision-based localization and velocimeter LiDAR projects. I also contributed briefly to JPL’s [RACER](https://www-robotics.jpl.nasa.gov/what-we-do/research-tasks/racer/) program for off-road autonomous vehicles.
 
-**I am seeking full-time opportunities** in: 
-- Sensor algorithms and signal processing
-- State estimation and robotic navigation
-- Sensor and environment modeling (autonomous vehicles or planetary science)
-&nbsp;
 
-[comment]: This is a template and some instructions for running Github Pages with the [`minima` theme][minima].
-
-[gh-site]: https://pages.github.com/
-[minima]: https://github.com/jekyll/minima/tree/2.5-stable
-[jk]: https://jekyllrb.com/
-[gh]: https://help.github.com/en/github/working-with-github-pages
-[issue]: https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose
-[contact]: https://jorgesanz.net/contact/
+I am broadly interested in intelligent sensing for perceptually challenging environments, with the goal of enabling precise navigation and science-driven autonomous operations.
