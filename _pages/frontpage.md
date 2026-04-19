@@ -35,7 +35,7 @@ list_title:
 &nbsp;
 
 
-Hi! I am Posdoctoral Researcher in the [RISc Lab](https://rcweb.dartmouth.edu/RISCLab/) at Dartmouth, working with Prof. [Adithya Pediredla](https://faculty-directory.dartmouth.edu/adithya-k-pediredla). My research spans computational sensing, rendering, and navigation.
+Hi! I am Postdoctoral Researcher in the [RISc Lab](https://rcweb.dartmouth.edu/RISCLab/) at Dartmouth, working with Prof. [Adithya Pediredla](https://faculty-directory.dartmouth.edu/adithya-k-pediredla). My research spans computational sensing, rendering, and navigation.
 
 <!-- and [Wojciech Jarosz](https://cs.dartmouth.edu/~wjarosz/)-->
 I earned my PhD in Aerospace Engineering from Texas A&M University under Prof. [Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html). My dissertation focused on digital signal processing and state estimation using FPGA-based embedded systems. Here is a brief outline of my doctoral work: [Technical Note](./assets/imgs/pubs/Ram_Dissertation_Poster.pdf "Poster").
