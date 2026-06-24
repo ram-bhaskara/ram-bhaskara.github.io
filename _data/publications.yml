@@ -1,3 +1,10 @@
+- title: "ShutterEvents: Shutter Modulation for Static-Dynamic Scene Recovery"
+  authors: "Nevindu M. Batagoda*, Ramchander Rao Bhaskara*, Christopher Metzler, Adithya Pediredla"
+  journal: "IEEE International Conference on Computational Photography (ICCP 2026)"
+  year: 2026
+  image: "./assets/imgs/pubs/shutterEvents2026.webp"
+  #paper_url: ""
+
 - title: "Searching for Ariel's Aliens with the CRISPI (Compositional Regolith and Icy Surface analysis via Particle Impact) Mass Spectrometer SmallSat Flyby Mission"
   authors: "Zach Ulibarri, Saima Jamal, Ramchander Rao Bhaskara et al."
   journal: "American Geophysical Union"
