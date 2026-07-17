@@ -6,7 +6,7 @@ list_title:
 ---
 
 <div style="text-align: center;">
-  <img src="./assets/imgs/img1_rcb.png" alt="YoDontScamMe" style="width:200px; height:200px; border-radius:50%; object-fit:cover;">
+  <img src="./assets/imgs/ramJ26.JPG" alt="YoDontScamMe" style="width:200px; height:200px; border-radius:50%; object-fit:cover;">
   <br><br>
   <div class="social-icons">
     {% if site.github_username %}
@@ -35,7 +35,7 @@ list_title:
 &nbsp;
 
 
-Hi! I am Postdoctoral Researcher in the [RISc Lab](https://rcweb.dartmouth.edu/RISCLab/) at Dartmouth, working with Prof. [Adithya Pediredla](https://faculty-directory.dartmouth.edu/adithya-k-pediredla). My research spans computational sensing, rendering, and navigation.
+Hi! I am Postdoctoral Researcher in the [RISc Lab](https://rcweb.dartmouth.edu/RISCLab/) at Dartmouth, working with Prof. [Adithya Pediredla](https://faculty-directory.dartmouth.edu/adithya-k-pediredla). I'm currently working on computational sensing using lasers and radios.
 
 <!-- and [Wojciech Jarosz](https://cs.dartmouth.edu/~wjarosz/)-->
 I earned my PhD in Aerospace Engineering from Texas A&M University under Prof. [Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html). My dissertation focused on digital signal processing and state estimation using FPGA-based embedded systems. Here is a brief outline of my doctoral work: [Technical Note](./assets/imgs/pubs/Ram_Dissertation_Poster.pdf "Poster").
@@ -44,5 +44,4 @@ During graduate school, I also worked on sensor simulation and computational vis
 
 <!--I also contributed briefly to JPL’s [RACER](https://www-robotics.jpl.nasa.gov/what-we-do/research-tasks/racer/) program for off-road autonomous vehicles.-->
 
-
-I am broadly interested in intelligent sensing for perceptually challenging environments, with the goal of enabling precise navigation and science-driven autonomous operations.
+I am broadly interested in intelligent sensing for perceptually challenging environments and in building imagers spanning applications from astronomy to microscopy.
