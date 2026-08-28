@@ -1,6 +1,6 @@
 - title: "SDR-ToF: Million Optical Depth Samples per Second Using Software-Defined Radio"
   authors: "Ramchander Rao Bhaskara*, Dhawal Sirikonda*, Omkar Vengurlekar*, Juhyeon Kim, Joseph Lazarro, Suren Jayasuriya, Adithya Pediredla"
-  journal: "ACM Transactions on Graphics (SIGGRAPH Asia 2026)"
+  journal: "ACM Transactions on Graphics (SIGGRAPH Asia)"
   year: 2026
   image: "./assets/imgs/pubs/sdrtof.jpg"
   paper_url: "https://risclab-dartmouth.org/sdr-tof/"
@@ -17,7 +17,7 @@
   journal: "American Geophysical Union"
   year: 2025
   image: "./assets/imgs/pubs/CRISPI.png"
-  #paper_url: ""
+  paper_url: "https://essopenarchive.org/doi/full/10.22541/essoar.176824622.20523635/v1"
 
 
 - title: "Real-Time Signal Processing and State Estimation for Spaceflight Applications"
