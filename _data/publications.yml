@@ -1,3 +1,10 @@
+- title: "SDR-ToF: Million Optical Depth Samples per Second Using Software-Defined Radio"
+  authors: "Ramchander Rao Bhaskara*, Dhawal Sirikonda*, Omkar Vengurlekar*, Juhyeon Kim, Joseph Lazarro, Suren Jayasuriya, Adithya Pediredla"
+  journal: "ACM Transactions on Graphics (SIGGRAPH Asia 2026)"
+  year: 2026
+  image: "./assets/imgs/pubs/sdrtof.jpg"
+  paper_url: "https://risclab-dartmouth.org/sdr-tof/"
+
 - title: "ShutterEvents: Shutter Modulation for Static-Dynamic Scene Recovery"
   authors: "Nevindu M. Batagoda*, Ramchander Rao Bhaskara*, Christopher Metzler, Adithya Pediredla"
   journal: "IEEE International Conference on Computational Photography (ICCP)"
