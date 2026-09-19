@@ -254,4 +254,4 @@ html { scroll-behavior: smooth; }
 
 .publication-links a:hover { text-decoration: underline; }
 
-.publication-award { margin-left: 10px; color: #ee9348; /* Highlight color */ font-weight: bold; font-size: 0.9em; }
+.publication-award { color: #ee9348; /* Highlight color */ font-weight: bold; font-size: 0.9em; }

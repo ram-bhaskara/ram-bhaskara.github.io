@@ -27,14 +27,17 @@
   image: "./assets/imgs/pubs/Dissertation_cover_Img.png"
   paper_url: "./assets/imgs/pubs/Ram_Dissertation_Poster.pdf"
 
+# TODO: going to arXiv-only. Once the cleaned PDF (ASR headers removed) is
+# uploaded/replaced on arXiv, set journal to "arXiv" and uncomment paper_url
+# with the arXiv abstract link (e.g. https://arxiv.org/abs/XXXX.XXXXX).
+# No code_url / separate paper button needed — title should link straight to arXiv.
 - title: "On applications of high-fidelity visual data synthesis in space mission designs"
   authors: "Ramchander Rao Bhaskara, Roshan T Eapen, Manoranjan Majji"
   journal: "Under review"
   year: 2025
   image: "./assets/imgs/pubs/fDist00.png"
-  #paper_url: "./assets/imgs/pubs/fDist00.png"
-  #code_url: "https://link.to/code2"
-  
+  #paper_url: "https://arxiv.org/abs/XXXX.XXXXX"
+
 - title: "Development and Validation of Velocimeter Lidar Simulator"
   authors: "Ramchander Rao Bhaskara, Roshan Eapen, Davis Adams, Caleb Peck, and Manoranjan Majji"
   journal: "AIAA SciTech Forum"

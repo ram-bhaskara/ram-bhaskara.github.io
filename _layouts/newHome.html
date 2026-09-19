@@ -40,13 +40,13 @@ layout: default
             </div>
             <div class="publication-journal">
               <em>{{ publication.journal }}</em>, {{ publication.year }}
+              {% if publication.award %}
+                | <span class="publication-award"><strong>{{ publication.award }}</strong></span>
+              {% endif %}
             </div>
             <div class="publication-links">
               {% if publication.code_url %}
                 [<a href="{{ publication.code_url }}" target="_blank">Code</a>]
-              {% endif %}
-              {% if publication.award %}
-                <span class="publication-award"><strong>{{ publication.award }}</strong></span>
               {% endif %}
             </div>
           </div>
