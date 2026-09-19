@@ -25,7 +25,7 @@ minima:
 header_pages:
   - _pages/frontpage.md
   - _pages/CV.md
-  - _pages/publicationList.md
+  #- _pages/publicationList.md
   #- _pages/about.md
   #- _pages/archive.md
 
