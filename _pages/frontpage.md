@@ -5,43 +5,36 @@ title:
 list_title: 
 ---
 
-<div style="text-align: center;">
-  <img src="./assets/imgs/ramJ26.JPG" alt="YoDontScamMe" style="width:200px; height:200px; border-radius:50%; object-fit:cover;">
-  <br><br>
-  <div class="social-icons">
-    {% if site.github_username %}
-      <a href="https://github.com/{{ site.github_username }}" target="_blank">
-        <i class="fab fa-github" style="font-size: 25px; margin: 0 10px;"></i>
-      </a>
-    {% endif %}
-    {% if site.email %}
-      <a href="mailto:{{ site.email }}" target="_blank">
-        <i class="fas fa-envelope" style="font-size: 25px; margin: 0 10px;"></i>
-      </a>
-    {% if site.linkedin_username %}
-      <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank">
-        <i class="fab fa-linkedin" style="font-size: 25px; margin: 0 10px;"></i>
-      </a>
-    {% endif %}
-    {% endif %}
-    {% if site.google_scholar %}
-      <a href="https://scholar.google.com/citations?user={{ site.google_scholar }}" target="_blank">
-        <i class="fas fa-graduation-cap" style="font-size: 25px; margin: 0 10px;"></i>
-      </a>
-    {% endif %}
-  </div>
+<div class="hero">
+<div class="hero-media">
+<div class="hero-photo">
+<img src="./assets/imgs/ramJ26-web.jpg" alt="Ramchander Bhaskara">
 </div>
 
-&nbsp;
+<div class="hero-social">
+{% if site.github_username %}
+<a href="https://github.com/{{ site.github_username }}" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
+{% endif %}
+{% if site.email %}
+<a href="mailto:{{ site.email }}" target="_blank" aria-label="Email"><i class="fas fa-envelope"></i></a>
+{% endif %}
+{% if site.linkedin_username %}
+<a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+{% endif %}
+{% if site.google_scholar %}
+<a href="https://scholar.google.com/citations?user={{ site.google_scholar }}" target="_blank" aria-label="Google Scholar"><i class="fas fa-graduation-cap"></i></a>
+{% endif %}
+</div>
+</div>
 
-
-Hi! I am Postdoctoral Researcher in the [RISc Lab](https://rcweb.dartmouth.edu/RISCLab/) at Dartmouth, working with Prof. [Adithya Pediredla](https://faculty-directory.dartmouth.edu/adithya-k-pediredla). I'm currently working on computational sensing using lasers and radios.
+<div class="hero-content" markdown="1">
+Hi! I am a postdoctoral researcher in the [RISc Lab](https://risclab-dartmouth.org/) at Dartmouth, working with Prof. [Adithya Pediredla](https://faculty-directory.dartmouth.edu/adithya-k-pediredla) on computational sensing using lasers and&nbsp;radios.
 
 <!-- and [Wojciech Jarosz](https://cs.dartmouth.edu/~wjarosz/)-->
-I earned my PhD in Aerospace Engineering from Texas A&M University under Prof. [Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html). My dissertation focused on digital signal processing and state estimation using FPGA-based embedded systems. Here is a brief outline of my doctoral work: [Technical Note](./assets/imgs/pubs/Ram_Dissertation_Poster.pdf "Poster").
-
-During graduate school, I also worked on sensor simulation and computational vision for space exploration. As a visiting researcher at NASA JPL, I worked with Drs. [Georgios Georgakis](https://www-robotics.jpl.nasa.gov/who-we-are/people/georgios-georgakis/), and Anup Katake on the [Europa Lander](https://www.jpl.nasa.gov/missions/europa-lander/) concept mission, focusing on perception for vision-based localization and velocimeter LiDAR projects. 
+I earned my PhD in Aerospace Engineering from Texas A&M University under Prof. [Manoranjan Majji](https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html), focusing on digital signal processing and state estimation for FPGA-based embedded systems ([dissertation outline](./assets/imgs/pubs/Ram_Dissertation_Poster.pdf "Poster")). As a visiting researcher at NASA JPL, I worked with Drs. [Georgios Georgakis](https://www-robotics.jpl.nasa.gov/who-we-are/people/georgios-georgakis/) and Anup Katake on the [Europa Lander](https://www.jpl.nasa.gov/missions/europa-lander/) concept mission, on vision-based localization and velocimeter LiDAR&nbsp;simulation.
 
 <!--I also contributed briefly to JPL’s [RACER](https://www-robotics.jpl.nasa.gov/what-we-do/research-tasks/racer/) program for off-road autonomous vehicles.-->
 
-I am broadly interested in intelligent sensing for perceptually challenging environments and in building imagers spanning applications from astronomy to microscopy.
+I'm interested in intelligent sensing for perceptually challenging environments, and in building imagers spanning astronomy to&nbsp;microscopy.
+</div>
+</div>

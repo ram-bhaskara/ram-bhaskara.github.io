@@ -1,6 +1,8 @@
 ---
 ---
 
+$content-width: 880px;
+
 @import "minima";
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
@@ -13,6 +15,100 @@ html {
   scroll-behavior: smooth;
 }
 
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  padding-bottom: 28px;
+  margin-bottom: 28px;
+  border-bottom: 1px solid #e3e0da;
+}
+
+.hero-media {
+  flex: 0 0 210px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hero-photo {
+  width: 210px;
+  height: 262px;
+  max-width: 100%;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 6px 20px rgba(56, 56, 56, 0.12);
+}
+
+.hero-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 22%;
+  display: block;
+}
+
+.hero-social {
+  display: flex;
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.hero-social a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: #f7f5f1;
+  color: #5b5b5b;
+  text-decoration: none;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.hero-social a:hover {
+  background: #007acc;
+  color: #fff;
+}
+
+.hero-social i {
+  font-size: 16px;
+}
+
+.hero-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.hero-content p {
+  margin: 0 0 13px;
+  font-size: 16px;
+  line-height: 1.66;
+  max-width: 60ch;
+  text-align: justify;
+  text-align-last: left;
+  text-wrap: pretty;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+
+.hero-content p:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 640px) {
+  .hero {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .hero-content {
+    text-align: left;
+  }
+}
+
 
 .publication-list {
     list-style-type: none;
@@ -21,37 +117,45 @@ html {
   
   .publication-item {
     display: flex;
-    align-items: flex-start;
-    margin-bottom: 20px;
+    align-items: center;
+    margin-bottom: 22px;
   }
-  
+
   .publication-image {
     margin-right: 20px;
+    flex: 0 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
-  
+
   .publication-image img {
     width: 150px; /* Adjust the width as needed */
     height: auto;
     padding: 0; /* Remove padding */
+    border-radius: 6px;
+    display: block;
   }
-  
+
   .publication-details {
     flex: 1;
   }
-  
+
   .publication-title {
     margin: 0;
     font-size: 1.0em; /* Larger font size for title */
+    line-height: 1.4;
   }
-  
+
   .publication-authors {
-    margin-top: 5px;
+    margin-top: 6px;
     font-size: 0.9em; /* Slightly reduced font size for authors */
+    line-height: 1.5;
     color: #555;
   }
-  
+
   .publication-journal {
-    margin-top: 5px;
+    margin-top: 6px;
     font-size: 0.9em; /* Slightly reduced font size for journal info */
     font-style: italic; /* Italicize journal name */
     color: #333; /* Adjust color as needed */
