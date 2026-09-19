@@ -200,9 +200,13 @@ body { font-family: 'Montserrat', sans-serif; color: #383838; }
 
 html { scroll-behavior: smooth; }
 
-.site-title { font-size: 32px; }
+.site-title { font-size: 30px; }
 
-.site-nav .page-link { font-size: 18px; font-weight: 500; }
+.post-content h2.publications-title { font-size: 30px; }
+
+.site-nav .page-link { display: inline-block; font-size: 18px; font-weight: 500; line-height: 1; padding: 8px 16px; border: 1px solid #b0b0b0; border-radius: 999px; vertical-align: middle; transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease; }
+
+.site-nav .page-link:hover { background: #383838; color: #fff; border-color: #383838; }
 
 .hero { display: flex; align-items: center; gap: 28px; padding-bottom: 28px; margin-bottom: 28px; border-bottom: 1px solid #e3e0da; }
 

@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-<h2>Publications</h2>
+<h2 class="publications-title">Publications</h2>
 <ul class="publication-list">
   {% for publication in site.data.publications %}
     <li class="publication-item">
