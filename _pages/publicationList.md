@@ -33,9 +33,6 @@ permalink: /publications/
           <em>{{ publication.journal }}</em>, {{ publication.year }}
         </div>
         <div class="publication-links">
-          {% if publication.paper_url %}
-            [<a href="{{ publication.paper_url }}" target="_blank">Paper</a>]
-          {% endif %}
           {% if publication.code_url %}
             [<a href="{{ publication.code_url }}" target="_blank">Code</a>]
           {% endif %}

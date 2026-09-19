@@ -10,7 +10,7 @@
   journal: "IEEE International Conference on Computational Photography (ICCP)"
   year: 2026
   image: "./assets/imgs/pubs/shutterEvents2026.webp"
-  #paper_url: ""
+  paper_url: "https://ieeexplore.ieee.org/document/11668882"
 
 - title: "Searching for Ariel's Aliens with the CRISPI (Compositional Regolith and Icy Surface analysis via Particle Impact) Mass Spectrometer SmallSat Flyby Mission"
   authors: "Zach Ulibarri, Saima Jamal, Ramchander Rao Bhaskara et al."
