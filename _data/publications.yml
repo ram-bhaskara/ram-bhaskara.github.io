@@ -31,12 +31,6 @@
 # uploaded/replaced on arXiv, set journal to "arXiv" and uncomment paper_url
 # with the arXiv abstract link (e.g. https://arxiv.org/abs/XXXX.XXXXX).
 # No code_url / separate paper button needed — title should link straight to arXiv.
-- title: "On applications of high-fidelity visual data synthesis in space mission designs"
-  authors: "Ramchander Rao Bhaskara, Roshan T Eapen, Manoranjan Majji"
-  journal: "Under review"
-  year: 2025
-  image: "./assets/imgs/pubs/fDist00.png"
-  #paper_url: "https://arxiv.org/abs/XXXX.XXXXX"
 
 - title: "Development and Validation of Velocimeter Lidar Simulator"
   authors: "Ramchander Rao Bhaskara, Roshan Eapen, Davis Adams, Caleb Peck, and Manoranjan Majji"
@@ -62,6 +56,7 @@
   image: "./assets/imgs/pubs/qualitative_examples_figure2.png"
   paper_url: "https://arxiv.org/abs/2401.12414"
   code_url: "https://github.com/nasa-jpl/guiss"
+  
 
 - title: "Differentiable Rendering for Pose Estimation in Proximity Operations"
   authors: "Ramchander Rao Bhaskara, Roshan T Eapen, Manoranjan Majji"
@@ -71,6 +66,14 @@
   paper_url: "https://arxiv.org/abs/2212.12668"
   #code_url: "https://github.com/nasa-jpl/guiss"
   award: "Finalist, Best Student Paper Award"
+  
+  
+  - title: "On applications of high-fidelity visual data synthesis in space mission designs"
+  authors: "Ramchander Rao Bhaskara*, Roshan T Eapen*, Manoranjan Majji"
+  #journal: ""
+  year: 2022
+  image: "./assets/imgs/pubs/fDist00.png"
+  paper_url: "https://arxiv.org/abs/2211.01566"
 
 - title: "An FPGA framework for Interferometric Vision-Based Navigation (iVisNav)"
   authors: "Ramchander Rao Bhaskara, Kookjin Sung, Manoranjan Majji"
