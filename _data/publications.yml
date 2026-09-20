@@ -66,9 +66,8 @@
   paper_url: "https://arxiv.org/abs/2212.12668"
   #code_url: "https://github.com/nasa-jpl/guiss"
   award: "Finalist, Best Student Paper Award"
-  
-  
-  - title: "On applications of high-fidelity visual data synthesis in space mission designs"
+
+- title: "NaRPA: Navigation and Rendering Pipeline for Astronautics"
   authors: "Ramchander Rao Bhaskara*, Roshan T Eapen*, Manoranjan Majji"
   journal: "arXiv"
   year: 2022
